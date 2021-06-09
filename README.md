@@ -17,7 +17,7 @@
 
 <details>
 
-<summary>My GitHub Stats</summary>
+My GitHub Stats
 
 ![i5mat's github stats](https://github-readme-stats.vercel.app/api?username=i5mat&theme=vue&show_icons=true)
 
