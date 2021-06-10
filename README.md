@@ -8,12 +8,12 @@
 
 🎊 Hello world!
 
-- :hammer_and_pick: C++ / ~~Markdown~~. Qt.
-- :package: Building [Notepanda](https://github.com/ChungZH/notepanda), [pedit](https://github.com/pandaos/pedit), [EasyHexo](https://github.com/EasyHexo/Easy-Hexo) and more.
-- :pencil2: Arch Linux & fish & VS Code & DDE & Iosevka / JetBrains Mono.
-- :memo: [Blog](https://blog.chungzh.cn) :card_index: [Portfolio](https://chungzh.cn) :email: `ismatazmy at live.com` :airplane: [Telegram](https://t.me/realChungZH).
-- :peach: My [Scoop](https://scoop.sh) bucket [peach](https://github.com/ChungZH/peach).
-
+- :hammer_and_pick: PHP, JavaScript, Android, ~~Pure Java~~.
+- 🗄️ MySQL, Oracle, Firebase.
+- ❤️ Laravel.
+- :package: Building [e-Techify](https://github.com/i5mat/e-Techify), [EasyHexo](https://github.com/vuejs/vue) and more.
+- :pencil2: PhpStorm, VS Code, DataGrid and lovin' JetBrains products.
+- :memo: [Blog](https://blog.ismat.my) :card_index: [Portfolio](https://ismat.my) :email: `ismatazmy at live.com`.
 
 <details>
 
