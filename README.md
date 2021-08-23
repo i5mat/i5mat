@@ -15,6 +15,7 @@
 - 📖💡 Learning [VueJS](https://github.com/vuejs/vue) and more interesting library.
 - :pencil2: PhpStorm, VS Code, DataGrid and lovin' JetBrains products.
 - 🎓 Dip. Information Technology, BSc (Hons) in Software Engineering ⭐
+- 🎓 BSc (Hons) in Software Engineering ⭐
 - :memo: [Blog](https://blog.ismat.my) :card_index: [Portfolio](https://ismat.my) :email: `ismatazmy at live.com`.
 
 <details>
