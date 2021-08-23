@@ -8,7 +8,7 @@
 
 🎊 Hello world!
 
-- :hammer_and_pick: PHP, JavaScript, Android, ~~Pure Java~~.
+- :hammer_and_pick: jQuery, Android, Laravel, VueJS, Amazon AWS S3, ~~Pure Java~~.
 - 🗄️ MySQL, Oracle, Firebase.
 - ❤️ Laravel.
 - :package: Building [e-Techify](https://github.com/i5mat/e-Techify).
