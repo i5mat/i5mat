@@ -30,10 +30,10 @@
 
 <summary>My GitHub Stats</summary>
   
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=i5mat&show_icons=true&locale=en&layout=compact" alt="i5mat" /></p><br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=i5mat&show_icons=true&locale=en&layout=compact" alt="i5mat" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=i5mat&show_icons=true&theme=dark&locale=en" alt="i5mat" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=i5mat&show_icons=true&theme=dark&locale=en" alt="i5mat" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=i5mat&" alt="i5mat" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=i5mat&" alt="i5mat" /></p>
   
 </details>
