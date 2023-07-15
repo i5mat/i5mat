@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ismat</h1>
-<h3 align="center">A passionate frontend & backend developer from Kuala Lumpur, Malaysia</h3>
+<h3 align="center">A passionate fullstack developer from Kuala Lumpur, Malaysia</h3>
 
 - 🔭 I’m currently working on [Data Management System](https://github.com/i5mat/data-management-vue)
 
