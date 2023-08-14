@@ -1,19 +1,17 @@
-<h1 align="center">Hi 👋, I'm Ismat</h1>
-<h3 align="center">A passionate fullstack developer from Kuala Lumpur, Malaysia</h3>
+<h1 align="center">Hi 👋</h1>
+<h3 align="center">A passionate Software Engineer from Kuala Lumpur, 🇲🇾</h3>
 
-- 🔭 I’m currently working on [Data Management System](https://github.com/i5mat/data-management-vue)
+- 🌱 I’m currently learning **DevOps**
 
-- 🌱 I’m currently learning **VueJS**
-
-- 👨‍💻 All of my projects are available at [https://i5mat.github.io/home/](https://i5mat.github.io/home/)
+- 👨‍💻 All of my projects are available at [Ismat's Portfolio](https://i5mat.github.io/home/)
 
 - 📫 How to reach me **ismatazmy@live.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/wan-muhammad-ismat-ba27a7147/](https://www.linkedin.com/in/wan-muhammad-ismat-ba27a7147/)
+- 📄 Know about my experiences [Ismat - LinkedIn](https://www.linkedin.com/in/ismatazmy/)
 
 - 🎓 Dip. Information Technology ⭐
 
-- 🎓 BSc (Hons) in Software Engineering ⭐
+- 🎓 BSc. (Hons) in Software Engineering ⭐
 
 - ⚡ Fun fact **I like to explore new things, an enthusiasts in technology & sports.**
 
